@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently studying at the University of Barcelona<br><br>🌱 I’m currently enrolled in a double Master's degree in Advanced Mathematics and Data Science<br><br>👯 I’m looking to collaborate on ML and DL projects<br><br>💬 Ask me about anything, it's always ok to ask<br><br>📫 How to reach me leonardo.bocchi.205@gmail.com
+# About Me:
+🔭 Currently studying at the University of Barcelona<br><br>🌱 Currently enrolled in a double Master's degree in Advanced Mathematics and Data Science<br><br>👯 I’m looking to collaborate on ML and DL projects<br><br>💬 Ask me about anything, it's always ok to ask<br><br>📫 How to reach me leonardo.bocchi.205@gmail.com
 
 
 # Skills
@@ -11,6 +11,7 @@
 
 ### Others
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=leobcc&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
