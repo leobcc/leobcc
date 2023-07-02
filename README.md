@@ -1,6 +1,7 @@
 # About Me
 🔭 Currently studying at the University of Barcelona<br><br>🌱 Currently enrolled in a double Master's degree in Advanced Mathematics and Data Science<br><br>👯 I’m looking to collaborate on ML and DL projects<br><br>💬 Ask me about anything, it's always ok to ask<br><br>📫 How to reach me leonardo.bocchi.205@gmail.com
 
+![image](https://github.com/leobcc/leobcc/assets/113901612/510e709b-6ade-4500-85cd-3c37d1c30930)
 
 # Skills
 ### Programming Languages
