@@ -1,5 +1,5 @@
 # About Me
-🔭 Currently studying at the University of Barcelona<br><br>🌱 Currently enrolled in a double Master's degree in Advanced Mathematics and Data Science<br><br>👯 I’m looking to collaborate on ML and DL projects<br><br>💬 Ask me about anything, it's always ok to ask<br><br>📫 How to reach me leonardo.bocchi.205@gmail.com
+🔭 Currently working as a researcher at the University of Barcelona<br><br>🌱 Currently enrolled in a double Master's degree in Advanced Mathematics and Data Science<br><br>👯 I’m looking to collaborate on ML and DL projects<br><br>💬 Ask me about anything, it's always ok to ask<br><br>📫 How to reach me leonardo.bocchi.205@gmail.com
 
 # Skills
 ### Programming Languages
